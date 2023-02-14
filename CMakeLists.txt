@@ -58,6 +58,7 @@ set(SourceFiles
     Source/tests/BasicTests.cpp
     Source/tests/BusTests.cpp
     Source/tests/ParameterFuzzTests.cpp
+    Source/tests/FAWTests.cpp
     Source/TestUtilities.cpp
     Source/Validator.cpp)
 
